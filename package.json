@@ -1,0 +1,20 @@
+{
+  "name": "blogging-website",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1s21bsse0112/Blogging-Website.git"
+  },
+  "keywords": [],
+  "author": "Muhammad Saad Anjum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1s21bsse0112/Blogging-Website/issues"
+  },
+  "homepage": "https://github.com/l1s21bsse0112/Blogging-Website#readme",
+  "description": ""
+}
